@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Function GiveCompliment", "Python Function GiveCompliment\Python Function GiveCompliment.pyproj", "{98B8593F-6E3E-47C8-BA87-76C8A8F7290D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B8593F-6E3E-47C8-BA87-76C8A8F7290D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B8593F-6E3E-47C8-BA87-76C8A8F7290D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC41092-54C6-4EFB-BB04-DFDE62F23BFC}
+	EndGlobalSection
+EndGlobal
